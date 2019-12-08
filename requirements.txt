@@ -25,3 +25,4 @@ wheel==0.24.0
 jupyter
 notedown
 autopep8
+pymysql
