@@ -21,7 +21,7 @@ rednose==0.4.1
 SQLAlchemy
 terminado==0.5
 tornado==4.1
-wheel==0.24.0
+wheel==0.38.1
 jupyter
 notedown
 autopep8
